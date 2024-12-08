@@ -1,0 +1,2 @@
+ngspice更新的链接发生了改变
+现在的链接的地址是：https://sourceforge.net/projects/ngspice/files/ng-spice-rework/42/
