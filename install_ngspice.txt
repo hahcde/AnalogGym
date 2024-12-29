@@ -3,4 +3,4 @@
 3. using tar to unzip the file (tar -xzvf ngspice-<version>.tar.gz) 
 4. using ./configure --prefix=/home/tyb/ngspice/ngspice to config the install directory
 5. make (if any error happen during make, using make clean and go to step 4 to re-config)
-6. make install
+6. sudo make install
