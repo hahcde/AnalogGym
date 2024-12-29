@@ -1,0 +1,6 @@
+1. install gcc and g++ (in centos, using command: sudo yum install gcc-c++)
+2. download ngspice-<version>.tar.gz from url: https://sourceforge.net/projects/ngspice/files/ng-spice-rework/42/, (if the url is uncorrect, search a new one)
+3. using tar to unzip the file (tar -xzvf ngspice-<version>.tar.gz) 
+4. using ./configure --prefix=/home/tyb/ngspice/ngspice to config the install directory
+5. make (if any error happen during make, using make clean and go to step 4 to re-config)
+6. make install
